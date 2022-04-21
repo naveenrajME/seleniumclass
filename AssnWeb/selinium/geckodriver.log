@@ -1,0 +1,20 @@
+1649486135442	geckodriver	INFO	Listening on 127.0.0.1:55820
+1649486138475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55821" "-no-remote" "-profile" "C:\\Users\\Esmito\\AppData\\Local\\Temp\\rust_mozprofilef4Y85z"
+1649486139662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Esmito\\AppData\\Local\\Temp\\rust_mozprofilef4Y85z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55821/devtools/browser/01aee327-6911-418c-ad3c-eb03b9c46bfa
+1649486144185	Marionette	INFO	Listening on port 55827
+1649486144282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://hrm.rtbi.in/, line 263: ReferenceError: TWTR is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://hrm.rtbi.in"
+JavaScript error: http://hrm.rtbi.in/, line 33: TypeError: document.loginform is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://hrm.rtbi.in"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://hrm.rtbi.in/mod/includes/Validate.js, line 94: unreachable code after return statement
+JavaScript warning: http://hrm.rtbi.in/mod/includes/Validate.js, line 94: unreachable code after return statement
+JavaScript warning: http://hrm.rtbi.in/mod/includes/Validate.js, line 94: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649488582755	Marionette	INFO	Stopped listening on port 55827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

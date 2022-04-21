@@ -1,0 +1,20 @@
+/* external css file+/
+/* id and class*/
+
+#d1{
+    background-color: aquamarine;
+    color: blueviolet;
+    }
+#d2{
+    background-color: rgb(206, 255, 127);
+    color: rgb(46, 43, 226);
+    width: 400px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px,10px,10px,10px;
+    text-align: center;
+    }
+.naveen{
+    font-family: 'Times New Roman', Times, serif;
+}
+    
